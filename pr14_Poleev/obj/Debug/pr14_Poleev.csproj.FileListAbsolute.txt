@@ -1,0 +1,8 @@
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\bin\Debug\pr14_Poleev.exe.config
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\bin\Debug\pr14_Poleev.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\bin\Debug\pr14_Poleev.pdb
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.AssemblyReference.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.SuggestedBindingRedirects.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.CoreCompileInputs.cache
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.exe
+D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.pdb
