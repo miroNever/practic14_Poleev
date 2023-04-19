@@ -6,3 +6,10 @@ D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\
 D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.CoreCompileInputs.cache
 D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.exe
 D:\все папки\Андрей\инфа\2_курс\Осн.Алг\pr14_Poleev\obj\Debug\pr14_Poleev.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\bin\Debug\pr14_Poleev.exe.config
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\bin\Debug\pr14_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\bin\Debug\pr14_Poleev.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\obj\Debug\pr14_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\obj\Debug\pr14_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\obj\Debug\pr14_Poleev.pdb
