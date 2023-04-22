@@ -1,0 +1,10 @@
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\bin\Debug\prfcnic_14_3-5_Poleev.exe.config
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\bin\Debug\prfcnic_14_3-5_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\bin\Debug\prfcnic_14_3-5_Poleev.pdb
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3-5_Poleev.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3_5_Poleev.Form1.resources
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3_5_Poleev.Properties.Resources.resources
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3-5_Poleev.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3-5_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3-5_Poleev.exe
+C:\Users\305-10\Desktop\Practik2_Poleev Andrey _pr21\pr14_Poleev\prfcnic_14_3-5_Poleev\prfcnic_14_3-5_Poleev\obj\Debug\prfcnic_14_3-5_Poleev.pdb
